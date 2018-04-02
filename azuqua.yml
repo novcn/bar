@@ -1,6 +1,6 @@
 name: bar
-version: 1.1.0
+version: 2.0.0
 dependencies:
   apps: 
-    foo: 1.0.0
-    wibble: 1.1.0
+    foo: 1.2.0
+    wibble: 2.0.0
